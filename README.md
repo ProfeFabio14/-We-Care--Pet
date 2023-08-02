@@ -11,29 +11,4 @@
 
 <h4> :heavy_check_mark: ɴᴇssᴇ ᴘʀᴏᴊᴇᴛᴏ ᴀᴘʀᴇɴᴅɪ sᴏʙʀᴇ ʀᴇsᴘᴏɴsɪᴠɪᴅᴀᴅᴇ :iphone: :computer:</h4>
 
-<br>
-
-
-<h3 align="center">
-  Let's plan your saving goal.
-</h3>
-
-<br>
-
-<p align="center">
-  <a href="#house-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#construction_worker-installation">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bug-issues">Issues</a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
-<img alt="Layout" src="https://res.cloudinary.com/dpg6ix1ze/image/upload/v1607354033/Projects/result_gqeihl.png">
-<br>
-
-
-## :house: About the project
-
-The project is a simulator to help users simulate how and when they will achieve their goal of buying their own home.
-<br>
+<img src="https://github.com/ProfeFabio14/-We-Care--Pet/blob/master/img/cell-computer.png?raw=true"> 
